@@ -1,0 +1,9 @@
+c:\users\vientos\documents\visual studio 2017\Projects\NetworkTools\NetworkTools\bin\Debug\NetworkTools.exe.config
+c:\users\vientos\documents\visual studio 2017\Projects\NetworkTools\NetworkTools\bin\Debug\NetworkTools.exe
+c:\users\vientos\documents\visual studio 2017\Projects\NetworkTools\NetworkTools\bin\Debug\NetworkTools.pdb
+c:\users\vientos\documents\visual studio 2017\Projects\NetworkTools\NetworkTools\obj\Debug\NetworkTools.csprojResolveAssemblyReference.cache
+c:\users\vientos\documents\visual studio 2017\Projects\NetworkTools\NetworkTools\obj\Debug\NetworkTools.Form1.resources
+c:\users\vientos\documents\visual studio 2017\Projects\NetworkTools\NetworkTools\obj\Debug\NetworkTools.Properties.Resources.resources
+c:\users\vientos\documents\visual studio 2017\Projects\NetworkTools\NetworkTools\obj\Debug\NetworkTools.csproj.GenerateResource.Cache
+c:\users\vientos\documents\visual studio 2017\Projects\NetworkTools\NetworkTools\obj\Debug\NetworkTools.exe
+c:\users\vientos\documents\visual studio 2017\Projects\NetworkTools\NetworkTools\obj\Debug\NetworkTools.pdb
